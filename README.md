@@ -11,6 +11,7 @@ Below are the techiniques that'll be explored to identify the best performing te
 
 **Metrics Used**
 
-Inertia
+Inertia, percentage reduction in inertia with increasing clusters,coherence score
 
 **Conclusion**
+KMeans with Word2Vec has superior performance as Word2Vec provides additional context from the google new corpus.10 Topics and 10 sub-topics for every topic were explored.
