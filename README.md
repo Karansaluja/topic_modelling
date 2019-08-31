@@ -15,3 +15,6 @@ Inertia, percentage reduction in inertia with increasing clusters,coherence scor
 
 **Conclusion**
 KMeans with Word2Vec has superior performance as Word2Vec provides additional context from the google new corpus.10 Topics and 10 sub-topics for every topic were explored.
+
+
+**Note** - To run the jupyter notebook,you will have to import Google news word2vec in the same directory. Word2Vec can be downloaded from here https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit.
